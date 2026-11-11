@@ -1,4 +1,4 @@
-# Processor Contract
+.# Processor Contract
 
 Processes single and subscription payments in ERC20 tokens and native coins.
 
